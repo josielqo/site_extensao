@@ -1,10 +1,11 @@
 <!doctype html>
 <html ng-app="miApp">
   <head>
-  <meta charset="utf-8">  
+  <meta charset="utf-8">
+      <title>Extensão Universitária UFPR</title>
   </head>
   <body ng-controller="mainController">
-    <h4>Lista de ciudades</h4>
+    <h4>Testando o Github</h4>
     <ul>
       <label>Filtro:</label>
 		<input ng-model="query">
